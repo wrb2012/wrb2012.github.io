@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "我的Mactype配置!"
+date:   2018-04-14 18:22:54 +0800
+categories: jekyll update
+---
 
 #我的MacType配置
 
