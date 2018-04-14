@@ -24,7 +24,7 @@ github_username:  wrb2012
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
