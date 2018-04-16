@@ -11,19 +11,11 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.7.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-<<<<<<< HEAD
 gem "jekyll-theme-minimal"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
-=======
-#gem "jekyll-theme-minimal", "~> 0.1"
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
- gem "github-pages", group: :jekyll_plugins
->>>>>>> bdc6b3ff816a4dbe542c9b805b16ec3c117b77d7
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
