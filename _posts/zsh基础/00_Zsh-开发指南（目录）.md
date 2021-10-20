@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zsh学习
+date: 2021-04-14 18:00:00 +0800
 categories: Shell
 ---
 ## [第一篇 变量和语句](01_Zsh-开发指南（第一篇-变量和语句）.md)
