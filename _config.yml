@@ -23,8 +23,7 @@ github_username:  wrb2012
 
 # Build settings
 markdown: kramdown
-theme: minima
-timezone: +8000
+theme: classic
 plugins:
   - jekyll-feed
 
