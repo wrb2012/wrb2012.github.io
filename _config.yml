@@ -23,7 +23,7 @@ github_username:  wrb2012
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
